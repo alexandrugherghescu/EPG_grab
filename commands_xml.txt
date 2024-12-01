@@ -1,0 +1,225 @@
+http://www.webgrabplus.com/documentation/interact-your-pvr-software/tvheadend
+
+1. genereza guide.xml
+2. copiaza guide.xml to /home/alin/guide.xml
+3. copiaza guide.xml form /home/alin/guide.xml to /bin/guide.xml
+
+
+cd /bin
+
+sudo nano tv_grab_ro
+
+*************************************************************************************
+#!/bin/bash
+xmltv_file_location=/bin/guide.xml
+dflag=
+vflag=
+cflag=
+qflag=
+if (( $# < 1 ))
+then
+  cat "$xmltv_file_location"
+  exit 0
+fi
+
+for arg
+do
+    delim=""
+    case "$arg" in
+    #translate --gnu-long-options to -g (short options)
+       --description) args="${args}-d ";;
+       --version) args="${args}-v ";;
+       --capabilities) args="${args}-c ";;
+       --quiet) args="${args}-q ";;
+
+       #pass through anything else
+       *) [[ "${arg:0:1}" == "-" ]] || delim="\""
+           args="${args}${delim}${arg}${delim} ";;
+    esac
+done
+
+#Reset the positional parameters to the short options
+eval set -- $args
+
+while getopts "dvcq" option
+do
+    case $option in
+        d)  dflag=1;;
+        v)  vflag=1;;
+        c)  cflag=1;;
+        q)  qflag=1;;
+        \?) printf "unknown option: -%s\n" $OPTARG
+            printf "Usage: %s: [--description] [--version] [--capabilities] \n" $(basename $0)
+            exit 2
+            ;;
+    esac >&2
+done
+
+if [ "$dflag" ]
+then
+   printf "$0 is a wrapper grabber around EPGWebGrab\n"
+fi
+if [ "$vflag" ]
+then
+   printf "0.2\n"
+fi
+if [ "$cflag" ]
+then
+   printf "baseline\n"
+fi
+if [ "$qflag" ]
+then
+   printf ""
+fi
+
+exit 0
+********************************************************************************
+
+sudo chmod +x /bin/tv_grab_ro
+
+sudo apt update
+
+sudo apt install xmltv
+
+sudo systemctl restart tvheadend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sudo systemctl restart tvheadend
+
+
+sudo su - hts
+
+
+su - hts cat /home/alin/guide.xml | socat -dd stdin UNIX-CONNECT:/var/lib/tvheadend/epggrab/xmltv.sock
+sudo cat /home/alin/guide.xml | socat -dd stdin UNIX-CONNECT:/var/lib/tvheadend/epggrab/xmltv.sock
+
+cat /home/alin/guide.xml | nc -w 5 -U /var/lib/tvheadend/epggrab/xmltv.sock
+
+sudo nano /var/lib/tvheadend/epggrab/xmltv.sock
+
+
+sudo chmod u+x xml2.sh
+
+
+
+#!/bin/bash
+
+rm /home/hts/.hts/tvheadend/scripts/guide.xml
+wget http://www.xmltv.co.uk/feed/8943 -O /home/hts/.hts/tvheadend/scripts/guide.xml
+sleep 2
+sed -i -e '/<!DOCTYPE tv SYSTEM "xmltv.dtd">/d' /home/hts/.hts/tvheadend/scripts/guide.xml
+sed -i -e 's,/images/,http://xmltv.co.uk/images/,g' /home/hts/.hts/tvheadend/scripts/guide.xml
+sleep 2
+cat /home/hts/.hts/tvheadend/scripts/guide.xml | /usr/bin/socat - UNIX-CONNECT:/home/hts/.hts/tvheadend/epggrab/xmltv.sock
+
+
+
+#!/bin/bash
+cat /home/alin/guide.xml | /usr/bin/socat - UNIX-CONNECT:/var/lib/tvheadend/epggrab/xmltv.sock
+
+
+su -s /bin/bash -c '/home/alin/xml.sh' hts
+
+
+
+
+
+
+
+
+
+
+
+
+
+#!/bin/bash
+xmltv_file_location=/home/alin/guide.xml
+dflag=
+vflag=
+cflag=
+qflag=
+if (( $# < 1 ))
+then
+  cat "$xmltv_file_location"
+  exit 0
+fi
+
+for arg
+do
+    delim=""
+    case "$arg" in
+    #translate --gnu-long-options to -g (short options)
+       --description) args="${args}-d ";;
+       --version) args="${args}-v ";;
+       --capabilities) args="${args}-c ";;
+       --quiet) args="${args}-q ";;
+
+       #pass through anything else
+       *) [[ "${arg:0:1}" == "-" ]] || delim="\""
+           args="${args}${delim}${arg}${delim} ";;
+    esac
+done
+
+#Reset the positional parameters to the short options
+eval set -- $args
+
+while getopts "dvcq" option
+do
+    case $option in
+        d)  dflag=1;;
+        v)  vflag=1;;
+        c)  cflag=1;;
+        q)  qflag=1;;
+        \?) printf "unknown option: -%s\n" $OPTARG
+            printf "Usage: %s: [--description] [--version] [--capabilities] \n" $(basename $0)
+            exit 2
+            ;;
+    esac >&2
+done
+
+if [ "$dflag" ]
+then
+   printf "$0 is a wrapper grabber around WebGrab+Plus\n"
+fi
+if [ "$vflag" ]
+then
+   printf "0.2\n"
+fi
+if [ "$cflag" ]
+then
+   printf "baseline\n"
+fi
+if [ "$qflag" ]
+then
+   printf ""
+fi
+
+exit 0

@@ -1,0 +1,758 @@
+{
+    "ACASA": [
+        "acasa",
+        "https://static.cinemagia.ro/img/tv_station/acasa.jpg"
+    ],
+    "ACASA GOLD": [
+        "acasa-gold",
+        "https://static.cinemagia.ro/img/tv_station/acasa-gold.jpg"
+    ],
+    "ACASA GOLD HD": [
+        "acasa-gold-hd",
+        "https://static.cinemagia.ro/img/tv_station/acasa-gold-hd.jpg"
+    ],
+    "ACASA HD": [
+        "acasa-hd",
+        "https://static.cinemagia.ro/img/tv_station/acasa-hd.jpg"
+    ],
+    "Agro TV": [
+        "agro-tv",
+        "https://static.cinemagia.ro/img/tv_station/agro-tv.jpg"
+    ],
+    "Aleph News": [
+        "aleph-news",
+        "https://static.cinemagia.ro/img/tv_station/aleph-news.jpg"
+    ],
+    "Alfa Omega": [
+        "alfa-omega-tv",
+        "https://static.cinemagia.ro/img/tv_station/alfa-omega-tv.jpg"
+    ],
+    "AMC": [
+        "amc",
+        "https://static.cinemagia.ro/img/tv_station/amc.jpg"
+    ],
+    "AMC HD": [
+        "amc-hd",
+        "https://static.cinemagia.ro/img/tv_station/amc-hd.jpg"
+    ],
+    "Antena 1": [
+        "antena-1",
+        "https://static.cinemagia.ro/img/tv_station/antena-1.jpg"
+    ],
+    "Antena 1 HD": [
+        "antena-1-hd",
+        "https://static.cinemagia.ro/img/tv_station/antena-1-hd.jpg"
+    ],
+    "Antena 3": [
+        "antena-3-cnn",
+        "https://static.cinemagia.ro/img/tv_station/antena-3-cnn.jpg"
+    ],
+    "Antena 3 HD": [
+        "antena-3-cnn-hd",
+        "https://static.cinemagia.ro/img/tv_station/antena-3-cnn-hd.jpg"
+    ],
+    "Antena Stars": [
+        "antena-stars",
+        "https://static.cinemagia.ro/img/tv_station/antena-stars.jpg"
+    ],
+    "Antena Stars HD": [
+        "antena-stars-hd",
+        "https://static.cinemagia.ro/img/tv_station/antena-stars-hd.jpg"
+    ],
+    "AXN": [
+        "axn",
+        "https://static.cinemagia.ro/img/tv_station/axn.jpg"
+    ],
+    "AXN Black": [
+        "axn-black",
+        "https://static.cinemagia.ro/img/tv_station/axn-black.jpg"
+    ],
+    "AXN HD": [
+        "axn-hd",
+        "https://static.cinemagia.ro/img/tv_station/axn-hd.jpg"
+    ],
+    "AXN Spin": [
+        "axn-spin",
+        "https://static.cinemagia.ro/img/tv_station/axn-spin.jpg"
+    ],
+    "AXN White": [
+        "axn-white",
+        "https://static.cinemagia.ro/img/tv_station/axn-white.jpg"
+    ],
+    "B1": [
+        "b1-tv",
+        "https://static.cinemagia.ro/img/tv_station/b1-tv.jpg"
+    ],
+    "B1 HD": [
+        "b1-tv-hd",
+        "https://static.cinemagia.ro/img/tv_station/b1-tv-hd.jpg"
+    ],
+    "BBC Earth": [
+        "bbc-earth",
+        "https://static.cinemagia.ro/img/tv_station/bbc-earth.jpg"
+    ],
+    "BBC Earth HD": [
+        "bbc-earth-hd",
+        "https://static.cinemagia.ro/img/tv_station/bbc-earth-hd.jpg"
+    ],
+    "BBC First HD": [
+        "bbc-first",
+        "https://static.cinemagia.ro/img/tv_station/bbc-first.jpg"
+    ],
+    "Cartoon Network": [
+        "cartoon-network",
+        "https://static.cinemagia.ro/img/tv_station/cartoon-network.jpg"
+    ],
+    "Cartoonito": [
+        "cartoonito",
+        "https://static.cinemagia.ro/img/tv_station/cartoonito.jpg"
+    ],
+    "CBS Reality": [
+        "cbs-reality",
+        "https://static.cinemagia.ro/img/tv_station/cbs-reality.jpg"
+    ],
+    "Cinemaraton": [
+        "cinemaraton",
+        "https://static.cinemagia.ro/img/tv_station/cinemaraton.jpg"
+    ],
+    "Cinemaraton HD": [
+        "cinemaraton",
+        "https://static.cinemagia.ro/img/tv_station/cinemaraton.jpg"
+    ],
+    "CineMAX": [
+        "cinemax",
+        "https://static.cinemagia.ro/img/tv_station/cinemax.jpg"
+    ],
+    "Cinemax2": [
+        "cinemax-2",
+        "https://static.cinemagia.ro/img/tv_station/cinemax-2.jpg"
+    ],
+    "Cinemax2 HD": [
+        "cinemax-2-hd",
+        "https://static.cinemagia.ro/img/tv_station/cinemax-2-hd.jpg"
+    ],
+    "Cinemax HD": [
+        "cinemax-hd",
+        "https://static.cinemagia.ro/img/tv_station/cinemax-hd.jpg"
+    ],
+    "CNN": [
+        "cnn",
+        "https://static.cinemagia.ro/img/tv_station/cnn.jpg"
+    ],
+    "Comedy Central": [
+        "comedy-central",
+        "https://static.cinemagia.ro/img/tv_station/comedy-central.jpg"
+    ],
+    "Credo TV": [
+        "credo-tv",
+        "https://static.cinemagia.ro/img/tv_station/credo-tv.jpg"
+    ],
+    "DaVinci": [
+        "da-vinci",
+        "https://static.cinemagia.ro/img/tv_station/da-vinci.jpg"
+    ],
+    "DW Deutsch": [
+        "deutsche-welle",
+        "https://static.cinemagia.ro/img/tv_station/deutsche-welle.jpg"
+    ],
+    "DIGI 24": [
+        "digi-24",
+        "https://static.cinemagia.ro/img/tv_station/digi-24.jpg"
+    ],
+    "DIGI 24 HD": [
+        "digi-24-hd",
+        "https://static.cinemagia.ro/img/tv_station/digi-24-hd.jpg"
+    ],
+    "DIGI 4K": [
+        "digi-4k",
+        "https://static.cinemagia.ro/img/tv_station/digi-4k.jpg"
+    ],
+    "DIGI ANIMAL WORLD": [
+        "digi-animal-world",
+        "https://static.cinemagia.ro/img/tv_station/digi-animal-world.jpg"
+    ],
+    "DIGI ANIMAL WORLD HD": [
+        "digi-animal-world-hd",
+        "https://static.cinemagia.ro/img/tv_station/digi-animal-world-hd.jpg"
+    ],
+    "DIGI LIFE": [
+        "digi-life",
+        "https://static.cinemagia.ro/img/tv_station/digi-life.jpg"
+    ],
+    "DIGI LIFE HD": [
+        "digi-life-hd",
+        "https://static.cinemagia.ro/img/tv_station/digi-life-hd.jpg"
+    ],
+    "DIGI Sport 1": [
+        "digi-sport-1",
+        "https://static.cinemagia.ro/img/tv_station/digi-sport-1.jpg"
+    ],
+    "DIGI Sport 1 HD": [
+        "digi-sport-1-hd",
+        "https://static.cinemagia.ro/img/tv_station/digi-sport-1-hd.jpg"
+    ],
+    "DIGI Sport 2": [
+        "digi-sport-2",
+        "https://static.cinemagia.ro/img/tv_station/digi-sport-2.jpg"
+    ],
+    "DIGI Sport 2 HD": [
+        "digi-sport-2-hd",
+        "https://static.cinemagia.ro/img/tv_station/digi-sport-2-hd.jpg"
+    ],
+    "DIGI Sport 3": [
+        "digi-sport-3",
+        "https://static.cinemagia.ro/img/tv_station/digi-sport-3.jpg"
+    ],
+    "DIGI Sport 3 HD": [
+        "digi-sport-3-hd",
+        "https://static.cinemagia.ro/img/tv_station/digi-sport-3-hd.jpg"
+    ],
+    "DIGI Sport 4": [
+        "digi-sport-4",
+        "https://static.cinemagia.ro/img/tv_station/digi-sport-4.jpg"
+    ],
+    "DIGI Sport 4 HD": [
+        "digi-sport-4-hd",
+        "https://static.cinemagia.ro/img/tv_station/digi-sport-4-hd.jpg"
+    ],
+    "DIGI WORLD": [
+        "digi-world",
+        "https://static.cinemagia.ro/img/tv_station/digi-world.jpg"
+    ],
+    "DIGI WORLD HD": [
+        "digi-world-hd",
+        "https://static.cinemagia.ro/img/tv_station/digi-world-hd.jpg"
+    ],
+    "Discovery": [
+        "discovery-channel",
+        "https://static.cinemagia.ro/img/tv_station/discovery-channel.jpg"
+    ],
+    "Discovery HD": [
+        "discovery-channel",
+        "https://static.cinemagia.ro/img/tv_station/discovery-channel.jpg"
+    ],
+    "Disney Channel": [
+        "disney-channel",
+        "https://static.cinemagia.ro/img/tv_station/disney-channel.jpg"
+    ],
+    "Disney Junior": [
+        "disney-junior",
+        "https://static.cinemagia.ro/img/tv_station/disney-junior.jpg"
+    ],
+    "Diva": [
+        "diva",
+        "https://static.cinemagia.ro/img/tv_station/diva.jpg"
+    ],
+    "Duna": [
+        "duna",
+        "https://static.cinemagia.ro/img/tv_station/duna.jpg"
+    ],
+    "E! Entertainment": [
+        "e-entertainment",
+        "https://static.cinemagia.ro/img/tv_station/e-entertainment.jpg"
+    ],
+    "E! Entertainment HD": [
+        "e-entertainment-hd",
+        "https://static.cinemagia.ro/img/tv_station/e-entertainment-hd.jpg"
+    ],
+    "Emi TV": [
+        "emi-tv",
+        "https://static.cinemagia.ro/img/tv_station/emi-tv.jpg"
+    ],
+    "Epic Drama": [
+        "epic-drama",
+        "https://static.cinemagia.ro/img/tv_station/epic-drama.jpg"
+    ],
+    "Etno TV": [
+        "etno-tv",
+        "https://static.cinemagia.ro/img/tv_station/etno-tv.jpg"
+    ],
+    "Etno TV HD": [
+        "etno-tv-hd",
+        "https://static.cinemagia.ro/img/tv_station/etno-tv-hd.jpg"
+    ],
+    "Euronews RO": [
+        "euronews-romania",
+        "https://static.cinemagia.ro/img/tv_station/euronews-romania.jpg"
+    ],
+    "Euronews RO HD": [
+        "euronews-romania-hd",
+        "https://static.cinemagia.ro/img/tv_station/euronews-romania-hd.jpg"
+    ],
+    "Eurosport": [
+        "eurosport-1",
+        "https://static.cinemagia.ro/img/tv_station/eurosport-1.jpg"
+    ],
+    "Eurosport HD": [
+        "eurosport-1-hd",
+        "https://static.cinemagia.ro/img/tv_station/eurosport-1-hd.jpg"
+    ],
+    "Eurosport 2": [
+        "eurosport-2",
+        "https://static.cinemagia.ro/img/tv_station/eurosport-2.jpg"
+    ],
+    "Eurosport 2 HD": [
+        "eurosport-2-hd",
+        "https://static.cinemagia.ro/img/tv_station/eurosport-2-hd.jpg"
+    ],
+    "Eurosport 4K": [
+        "eurosport-4k",
+        "https://static.cinemagia.ro/img/tv_station/eurosport-4k.jpg"
+    ],
+    "FashionTV": [
+        "fashion-tv",
+        "https://static.cinemagia.ro/img/tv_station/fashion-tv.jpg"
+    ],
+    "Favorit TV": [
+        "favorit",
+        "https://static.cinemagia.ro/img/tv_station/favorit.jpg"
+    ],
+    "Film Cafe": [
+        "film-cafe",
+        "https://static.cinemagia.ro/img/tv_station/film-cafe.jpg"
+    ],
+    "FILM NOW": [
+        "film-now",
+        "https://static.cinemagia.ro/img/tv_station/film-now.jpg"
+    ],
+    "FILM NOW HD": [
+        "film-now-hd",
+        "https://static.cinemagia.ro/img/tv_station/film-now-hd.jpg"
+    ],
+    "Happy Channel": [
+        "happy-channel",
+        "https://static.cinemagia.ro/img/tv_station/happy-channel.jpg"
+    ],
+    "Happy Channel HD": [
+        "happy-channel-hd",
+        "https://static.cinemagia.ro/img/tv_station/happy-channel-hd.jpg"
+    ],
+    "HBO": [
+        "hbo",
+        "https://static.cinemagia.ro/img/tv_station/hbo.jpg"
+    ],
+    "HBO 2": [
+        "hbo-2",
+        "https://static.cinemagia.ro/img/tv_station/hbo-2.jpg"
+    ],
+    "HBO2 HD": [
+        "hbo-2-hd",
+        "https://static.cinemagia.ro/img/tv_station/hbo-2-hd.jpg"
+    ],
+    "HBO 3": [
+        "hbo-3",
+        "https://static.cinemagia.ro/img/tv_station/hbo-3.jpg"
+    ],
+    "HBO3 HD": [
+        "hbo-3-hd",
+        "https://static.cinemagia.ro/img/tv_station/hbo-3-hd.jpg"
+    ],
+    "HBO HD": [
+        "hbo-hd",
+        "https://static.cinemagia.ro/img/tv_station/hbo-hd.jpg"
+    ],
+    "HGTV HD": [
+        "hgtv-hd",
+        "https://static.cinemagia.ro/img/tv_station/hgtv-hd.jpg"
+    ],
+    "History Channel": [
+        "history",
+        "https://static.cinemagia.ro/img/tv_station/history.jpg"
+    ],
+    "History Channel HD": [
+        "history-hd",
+        "https://static.cinemagia.ro/img/tv_station/history-hd.jpg"
+    ],
+    "HIT Music": [
+        "hit-music-channel",
+        "https://static.cinemagia.ro/img/tv_station/hit-music-channel.jpg"
+    ],
+    "Inedit TV": [
+        "inedit-tv",
+        "https://static.cinemagia.ro/img/tv_station/inedit-tv.jpg"
+    ],
+    "Jimjam": [
+        "jimjam",
+        "https://static.cinemagia.ro/img/tv_station/jimjam.jpg"
+    ],
+    "Kanal D": [
+        "kanal-d",
+        "https://static.cinemagia.ro/img/tv_station/kanal-d.jpg"
+    ],
+    "Kanal D HD": [
+        "kanal-d-hd",
+        "https://static.cinemagia.ro/img/tv_station/kanal-d-hd.jpg"
+    ],
+    "Kanal D2": [
+        "kanal-d2",
+        "https://static.cinemagia.ro/img/tv_station/kanal-d2.jpg"
+    ],
+    "Kanal D2 HD": [
+        "kanal-d2-hd",
+        "https://static.cinemagia.ro/img/tv_station/kanal-d2-hd.jpg"
+    ],
+    "Kapital TV": [
+        "kapital-tv",
+        "https://static.cinemagia.ro/img/tv_station/kapital-tv.jpg"
+    ],
+    "KISS TV": [
+        "kiss-tv",
+        "https://static.cinemagia.ro/img/tv_station/kiss-tv.jpg"
+    ],
+    "Love Nature 4k": [
+        "love-nature",
+        "https://static.cinemagia.ro/img/tv_station/love-nature.jpg"
+    ],
+    "M1 Europe": [
+        "m1",
+        "https://static.cinemagia.ro/img/tv_station/m1.jpg"
+    ],
+    "MAGIC TV": [
+        "magic-tv",
+        "https://static.cinemagia.ro/img/tv_station/magic-tv.jpg"
+    ],
+    "Metropola TV": [
+        "metropola-tv",
+        "https://static.cinemagia.ro/img/tv_station/metropola-tv.jpg"
+    ],
+    "Metropola TV HD": [
+        "metropola-tv-hd",
+        "https://static.cinemagia.ro/img/tv_station/metropola-tv-hd.jpg"
+    ],
+    "MEZZO": [
+        "mezzo",
+        "https://static.cinemagia.ro/img/tv_station/mezzo.jpg"
+    ],
+    "Minimax": [
+        "minimax",
+        "https://static.cinemagia.ro/img/tv_station/minimax.jpg"
+    ],
+    "Moldova TV": [
+        "moldova-tv",
+        "https://static.cinemagia.ro/img/tv_station/moldova-tv.jpg"
+    ],
+    "MTV 00s": [
+        "mtv-00s",
+        "https://static.cinemagia.ro/img/tv_station/mtv-00s.jpg"
+    ],
+    "MTV Europe": [
+        "mtv-europe",
+        "https://static.cinemagia.ro/img/tv_station/mtv-europe.jpg"
+    ],
+    "Music Channel Ro": [
+        "music-channel",
+        "https://static.cinemagia.ro/img/tv_station/music-channel.jpg"
+    ],
+    "Nasul TV": [
+        "nasul-tv",
+        "https://static.cinemagia.ro/img/tv_station/nasul-tv.jpg"
+    ],
+    "National 24 Plus": [
+        "national-24-plus",
+        "https://static.cinemagia.ro/img/tv_station/national-24-plus.jpg"
+    ],
+    "Nat Geo": [
+        "national-geographic",
+        "https://static.cinemagia.ro/img/tv_station/national-geographic.jpg"
+    ],
+    "Nat Geo HD": [
+        "national-geographic-hd",
+        "https://static.cinemagia.ro/img/tv_station/national-geographic-hd.jpg"
+    ],
+    "Nat Geo Wild": [
+        "national-geographic-wild",
+        "https://static.cinemagia.ro/img/tv_station/national-geographic-wild.jpg"
+    ],
+    "Nat Geo Wild HD": [
+        "national-geographic-wild-hd",
+        "https://static.cinemagia.ro/img/tv_station/national-geographic-wild-hd.jpg"
+    ],
+    "National TV": [
+        "national-tv",
+        "https://static.cinemagia.ro/img/tv_station/national-tv.jpg"
+    ],
+    "Nick Jr": [
+        "nick-jr",
+        "https://static.cinemagia.ro/img/tv_station/nick-jr.jpg"
+    ],
+    "Nickelodeon": [
+        "nickelodeon",
+        "https://static.cinemagia.ro/img/tv_station/nickelodeon.jpg"
+    ],
+    "Nicktoons": [
+        "nicktoons",
+        "https://static.cinemagia.ro/img/tv_station/nicktoons.jpg"
+    ],
+    "Orizont TV": [
+        "orizont-tv",
+        "https://static.cinemagia.ro/img/tv_station/orizont-tv.jpg"
+    ],
+    "PRIMA NEWS": [
+        "prima-news",
+        "https://static.cinemagia.ro/img/tv_station/prima-news.jpg"
+    ],
+    "PRIMA SPORT 1": [
+        "prima-sport-1",
+        "https://static.cinemagia.ro/img/tv_station/prima-sport-1.jpg"
+    ],
+    "PRIMA SPORT 1 HD": [
+        "prima-sport-1-hd",
+        "https://static.cinemagia.ro/img/tv_station/prima-sport-1-hd.jpg"
+    ],
+    "PRIMA SPORT 2": [
+        "prima-sport-2",
+        "https://static.cinemagia.ro/img/tv_station/prima-sport-2.jpg"
+    ],
+    "PRIMA SPORT 2 HD": [
+        "prima-sport-2-hd",
+        "https://static.cinemagia.ro/img/tv_station/prima-sport-2-hd.jpg"
+    ],
+    "PRIMA SPORT 3": [
+        "prima-sport-3",
+        "https://static.cinemagia.ro/img/tv_station/prima-sport-3.jpg"
+    ],
+    "PRIMA SPORT 3 HD": [
+        "prima-sport-3-hd",
+        "https://static.cinemagia.ro/img/tv_station/prima-sport-3-hd.jpg"
+    ],
+    "PRIMA SPORT 4": [
+        "prima-sport-4",
+        "https://static.cinemagia.ro/img/tv_station/prima-sport-4.jpg"
+    ],
+    "PRIMA SPORT 4 HD": [
+        "prima-sport-4-hd",
+        "https://static.cinemagia.ro/img/tv_station/prima-sport-4-hd.jpg"
+    ],
+    "PRIMA SPORT 5": [
+        "prima-sport-5",
+        "https://static.cinemagia.ro/img/tv_station/prima-sport-5.jpg"
+    ],
+    "PRIMA SPORT 5 HD": [
+        "prima-sport-5-hd",
+        "https://static.cinemagia.ro/img/tv_station/prima-sport-5-hd.jpg"
+    ],
+    "PRIMA TV": [
+        "prima-tv",
+        "https://static.cinemagia.ro/img/tv_station/prima-tv.jpg"
+    ],
+    "PRIMA TV HD": [
+        "prima-tv-hd",
+        "https://static.cinemagia.ro/img/tv_station/prima-tv-hd.jpg"
+    ],
+    "PRO ARENA": [
+        "pro-arena",
+        "https://static.cinemagia.ro/img/tv_station/pro-arena.jpg"
+    ],
+    "PRO ARENA HD": [
+        "pro-arena-hd",
+        "https://static.cinemagia.ro/img/tv_station/pro-arena-hd.jpg"
+    ],
+    "PRO CINEMA": [
+        "pro-cinema",
+        "https://static.cinemagia.ro/img/tv_station/pro-cinema.jpg"
+    ],
+    "PRO CINEMA HD": [
+        "pro-cinema-hd",
+        "https://static.cinemagia.ro/img/tv_station/pro-cinema-hd.jpg"
+    ],
+    "PRO TV": [
+        "pro-tv",
+        "https://static.cinemagia.ro/img/tv_station/pro-tv.jpg"
+    ],
+    "PRO TV HD": [
+        "pro-tv-hd",
+        "https://static.cinemagia.ro/img/tv_station/pro-tv-hd.jpg"
+    ],
+    "Rai 1": [
+        "rai-1",
+        "https://static.cinemagia.ro/img/tv_station/rai-1.jpg"
+    ],
+    "Rai 3": [
+        "rai-3",
+        "https://static.cinemagia.ro/img/tv_station/rai-3.jpg"
+    ],
+    "Realitatea Plus": [
+        "realitatea-plus",
+        "https://static.cinemagia.ro/img/tv_station/realitatea-plus.jpg"
+    ],
+    "Realitatea Plus HD": [
+        "realitatea-plus",
+        "https://static.cinemagia.ro/img/tv_station/realitatea-plus.jpg"
+    ],
+    "Romania TV": [
+        "romania-tv",
+        "https://static.cinemagia.ro/img/tv_station/romania-tv.jpg"
+    ],
+    "Romania TV HD": [
+        "romania-tv-hd",
+        "https://static.cinemagia.ro/img/tv_station/romania-tv-hd.jpg"
+    ],
+    "RTL Television": [
+        "rtl",
+        "https://static.cinemagia.ro/img/tv_station/rtl.jpg"
+    ],
+    "SperantaTV": [
+        "speranta-tv",
+        "https://static.cinemagia.ro/img/tv_station/speranta-tv.jpg"
+    ],
+    "Sportextra HD": [
+        "sport-extra",
+        "https://static.cinemagia.ro/img/tv_station/sport-extra.jpg"
+    ],
+    "SuperOne": [
+        "superone-hd",
+        "https://static.cinemagia.ro/img/tv_station/superone-hd.jpg"
+    ],
+    "SuperOne HD": [
+        "superone-hd",
+        "https://static.cinemagia.ro/img/tv_station/superone-hd.jpg"
+    ],
+    "Taraf TV": [
+        "taraf-tv",
+        "https://static.cinemagia.ro/img/tv_station/taraf-tv.jpg"
+    ],
+    "Taraf TV HD": [
+        "taraf-tv-hd",
+        "https://static.cinemagia.ro/img/tv_station/taraf-tv-hd.jpg"
+    ],
+    "TeenNick": [
+        "teennick",
+        "https://static.cinemagia.ro/img/tv_station/teennick.jpg"
+    ],
+    "TeleMoldova Plus": [
+        "telemoldova-plus",
+        "https://static.cinemagia.ro/img/tv_station/telemoldova-plus.jpg"
+    ],
+    "Fishing and Hunting": [
+        "the-fishing-and-hunting-channel",
+        "https://static.cinemagia.ro/img/tv_station/the-fishing-and-hunting-channel.jpg"
+    ],
+    "TLC": [
+        "tlc",
+        "https://static.cinemagia.ro/img/tv_station/tlc.jpg"
+    ],
+    "TraLaLa": [
+        "tralala-hd",
+        "https://static.cinemagia.ro/img/tv_station/tralala-hd.jpg"
+    ],
+    "Travel Channel": [
+        "travel-channel",
+        "https://static.cinemagia.ro/img/tv_station/travel-channel.jpg"
+    ],
+    "Travel Channel HD": [
+        "travel-channel-hd",
+        "https://static.cinemagia.ro/img/tv_station/travel-channel-hd.jpg"
+    ],
+    "Trinitas": [
+        "trinitas-tv",
+        "https://static.cinemagia.ro/img/tv_station/trinitas-tv.jpg"
+    ],
+    "Trinitas TV HD": [
+        "trinitas-tv-hd",
+        "https://static.cinemagia.ro/img/tv_station/trinitas-tv-hd.jpg"
+    ],
+    "TVR 1": [
+        "tvr-1",
+        "https://static.cinemagia.ro/img/tv_station/tvr-1.jpg"
+    ],
+    "TVR1 HD": [
+        "tvr-1-hd",
+        "https://static.cinemagia.ro/img/tv_station/tvr-1-hd.jpg"
+    ],
+    "TVR 2": [
+        "tvr-2",
+        "https://static.cinemagia.ro/img/tv_station/tvr-2.jpg"
+    ],
+    "TVR2 HD": [
+        "tvr-2-hd",
+        "https://static.cinemagia.ro/img/tv_station/tvr-2-hd.jpg"
+    ],
+    "TVR 3": [
+        "tvr-3",
+        "https://static.cinemagia.ro/img/tv_station/tvr-3.jpg"
+    ],
+    "TVR Cluj": [
+        "tvr-cluj",
+        "https://static.cinemagia.ro/img/tv_station/tvr-cluj.jpg"
+    ],
+    "TVR Craiova": [
+        "tvr-craiova",
+        "https://static.cinemagia.ro/img/tv_station/tvr-craiova.jpg"
+    ],
+    "TVR Cultural": [
+        "tvr-cultural",
+        "https://static.cinemagia.ro/img/tv_station/tvr-cultural.jpg"
+    ],
+    "TVR Folclor": [
+        "tvr-folclor",
+        "https://static.cinemagia.ro/img/tv_station/tvr-folclor.jpg"
+    ],
+    "TVR Iasi": [
+        "tvr-iasi",
+        "https://static.cinemagia.ro/img/tv_station/tvr-iasi.jpg"
+    ],
+    "TVR Info": [
+        "tvr-info",
+        "https://static.cinemagia.ro/img/tv_station/tvr-info.jpg"
+    ],
+    "TVR Moldova": [
+        "tvr-moldova",
+        "https://static.cinemagia.ro/img/tv_station/tvr-moldova.jpg"
+    ],
+    "TVR SPORT HD": [
+        "tvr-sport-hd",
+        "https://static.cinemagia.ro/img/tv_station/tvr-sport-hd.jpg"
+    ],
+    "TVR SPORT": [
+        "tvr-sport-hd",
+        "https://static.cinemagia.ro/img/tv_station/tvr-sport-hd.jpg"
+    ],
+    "TVR Tg Mures": [
+        "tvr-targu-mures",
+        "https://static.cinemagia.ro/img/tv_station/tvr-targu-mures.jpg"
+    ],
+    "TVR Timisoara": [
+        "tvr-timisoara",
+        "https://static.cinemagia.ro/img/tv_station/tvr-timisoara.jpg"
+    ],
+    "UTV": [
+        "utv",
+        "https://static.cinemagia.ro/img/tv_station/utv.jpg"
+    ],
+    "UTV HD": [
+        "utv-hd",
+        "https://static.cinemagia.ro/img/tv_station/utv-hd.jpg"
+    ],
+    "Viasat Explore": [
+        "viasat-explore",
+        "https://static.cinemagia.ro/img/tv_station/viasat-explore.jpg"
+    ],
+    "Viasat Explore HD": [
+        "viasat-explore-hd",
+        "https://static.cinemagia.ro/img/tv_station/viasat-explore-hd.jpg"
+    ],
+    "Viasat History": [
+        "viasat-history",
+        "https://static.cinemagia.ro/img/tv_station/viasat-history.jpg"
+    ],
+    "Viasat History HD": [
+        "viasat-history-hd",
+        "https://static.cinemagia.ro/img/tv_station/viasat-history-hd.jpg"
+    ],
+    "Viasat Nature": [
+        "viasat-nature",
+        "https://static.cinemagia.ro/img/tv_station/viasat-nature.jpg"
+    ],
+    "Viasat Nature HD": [
+        "viasat-nature-hd",
+        "https://static.cinemagia.ro/img/tv_station/viasat-nature-hd.jpg"
+    ],
+    "ZU TV": [
+        "zu-tv",
+        "https://static.cinemagia.ro/img/tv_station/zu-tv.jpg"
+    ],
+    "ZU TV HD": [
+        "zu-tv-hd",
+        "https://static.cinemagia.ro/img/tv_station/zu-tv-hd.jpg"
+    ]
+}

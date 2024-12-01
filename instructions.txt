@@ -1,0 +1,51 @@
+Commands:
+sudo systemctl disable tvheadend
+sudo systemctl enable tvheadend
+sudo systemctl stop tvheadend
+sudo systemctl start tvheadend
+
+- pycharm for development (with venv)
+
+- OS windows 10
+
+2. install required packages:
+cd "C:\Users\alin_\PycharmProjects\EPGGrab\venv"
+
+cd Scripts
+
+activate.bat
+
+# python -m pip install beautifulsoup4
+# python -m pip install --upgrade pip
+# python -m pip install requests
+# python -m pip install beautifulsoup4
+
+
+sudo apt-get install python3-bs4
+
+sudo apt install xmltv
+
+sudo cp tv_grab_ro /bin/
+sudo cp EPGGrab /etc/cron.daily/
+sudo cp EPGGrab.py /etc/
+
+sudo chmod +x tv_grab_ro
+sudo chmod +x EPGGrab
+sudo chmod +x EPGGrab.py
+
+
+
+sudo cp tv_grab_ro2 /bin/
+
+sudo chmod +x tv_grab_ro2
+sudo chmod +x EPGGrab2.sh
+sudo chmod +x EPGGrab2.py
+
+sudo crontab -e
+##############################################
+00 01 * * * /bin/bash /usr/bin/EPGGrab.sh
+##############################################
+
+run once a day the EPG grab:
+
+
